@@ -40,6 +40,8 @@ func main() {
 		999999999999999,
 		9999999999999999}
 
+	fmt.Println("Number of processors: ", numberOfProcessors)
+
 	runtime.GOMAXPROCS(numberOfProcessors)
 	var seed int64 = 328713721987319
 	rand.Seed(seed)
