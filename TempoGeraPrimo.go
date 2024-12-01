@@ -21,6 +21,8 @@
 //   P:  conforme seu hardware {2, 4, 6, 8, 10, 12}
 //   tamanhos dos valores, coforme exemplificado no programa abaixo.
 
+//Nomes: João Demari, Guilherme Kuhn, João Lima, Julio Cesar Filho
+
 package main
 
 import (
